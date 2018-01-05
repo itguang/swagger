@@ -113,7 +113,7 @@ springfox允许我们将信息组合成一个ApiInfo的类，作为构造参数�
 
 会看到如下界面:
 
-1[](imgs/1.png)
+[](imgs/1.png)
 
 这是Swagger-ui 为我们生成的界面.
 
