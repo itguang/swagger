@@ -1,27 +1,13 @@
 # Swagger使用
 
-# [SpringBoot附常见坑点](https://www.jianshu.com/p/380a9d980ca5?utm_campaign=maleskine&utm_content=note&utm_medium=pc_all_hots&utm_source=recommendation)
-
-
-Swagger注解: https://www.jianshu.com/p/12f4394462d5
-
-原理: http://blog.csdn.net/songanling/article/details/71079304
-
-汉化: https://www.jianshu.com/p/7e543f0f0bd8
-
 ## Swagger有什么用?
 
 swagger是一个流行的API开发框架，这个框架以“开放API声明”（OpenAPI Specification，OAS）为基础，
 对整个API的开发周期都提供了相应的解决方案，是一个非常庞大的项目（包括设计、编码和测试，几乎支持所有语言）。
 
-
 Swagger 是一个规范和完整的框架，用于生成、描述、调用和可视化 RESTful 风格的 Web 服务。
 总体目标是使客户端和文件系统作为服务器以同样的速度来更新。
 文件的方法，参数和模型紧密集成到服务器端的代码，允许API来始终保持同步。Swagger 让部署管理和使用功能强大的API从未如此简单。
-
-
-
-
 
 **springfox大致原理:**
 
@@ -572,7 +558,9 @@ window.SwaggerTranslator.learn({
 
 好了，关于Swagger2在项目中的使用教程就到这里。
 
-> 源码下载: 
+> 源码下载: https://github.com/itguang/swagger/tree/master/springboot-swagger-demo1
+
+
 
 
 
